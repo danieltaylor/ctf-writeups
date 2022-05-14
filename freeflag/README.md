@@ -1,5 +1,7 @@
 # Free Flag
 
+###### Writeup by [danieltaylor](https://github.com/danieltaylor)
+
 ## Challenge
 
 We are so generous that we literally decided to give you a free flag on a challenge other than sanity check.
