@@ -62,6 +62,8 @@ Here are some demos of running the script on each of the files that we were give
 
 ![](./img/flag_demo.gif)
 
+The flag can be found is found within the decrypted message: `sdctf{D0n't_b3_a_D4v3_ju5t_Use_AES_0r_S0me7h1ng}`
+
 ##### [q2_report.txt](./q2_report.txt)
 
 ![](./img/q2_demo.gif)
