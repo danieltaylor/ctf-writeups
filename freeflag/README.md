@@ -11,7 +11,7 @@ We are so generous that we literally decided to give you a free flag on a challe
 
 If you run [freeflag.png](./freeflag.png) through [Cyberchef's Randomize Color Palette function](https://gchq.github.io/CyberChef/#recipe=Randomize_Colour_Palette('')), you may notice some unique pixels hiding in the top left corner of the image:
 
-![](./img/randomized.png)
+![](./freeflag_randomized.png)
 
 Using the [Python Image Library](https://pillow.readthedocs.io/en/stable/), we can find the values of the pixels in the top left of the original image.  The code below will print out the values of the first row of pixels:
 
