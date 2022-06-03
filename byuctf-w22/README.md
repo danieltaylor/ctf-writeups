@@ -3,5 +3,5 @@
 A private CTF for BYU students.  Many challenges in this CTF were reused later on in our [public CTF](../byuctf-22).
 
 ## Writeups
-- [<b>The Most Worthy Distinction of Pain</b>](./themostworthydistinctionofpain) - cryptography, 500 pts
-- [<b>Too Many Times</b>](./toomanytimes) - cryptography, 500 pts
+- [**The Most Worthy Distinction of Pain**](./themostworthydistinctionofpain) - cryptography, 500 pts
+- [**Too Many Times**](./toomanytimes) - cryptography, 500 pts

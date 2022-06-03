@@ -11,5 +11,5 @@
 [View on CTFtime](https://ctftime.org/event/1495)
 
 ## Writeups
-- [<b>Free Flag</b>](./free-flag) - miscellaneous, 300 pts
-- [<b>Internprise Encryption</b>](./internprise-encryption) - revenge, 200 pts
+- [**Free Flag**](./free-flag) - miscellaneous, 300 pts
+- [**Internprise Encryption**](./internprise-encryption) - revenge, 200 pts
