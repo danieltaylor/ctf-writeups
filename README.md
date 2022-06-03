@@ -10,7 +10,9 @@
 - [<b>BYU Winter 2022 End of Semester CTF</b>](./byuctf-w22)
 	- [<b>The Most Worthy Distinction of Pain</b>](./themostworthydistinctionofpain) - cryptography, 500 pts
 	- [<b>Too Many Times</b>](./toomanytimes) - cryptography, 500 pts
-- [<b>SDCTF 2022</b>](./sdctf-22)
+- [<b>Digital Overdose Conference 2022 CTF</b>](./doctf-22)
+	- [<b>Based</b>](./doctf-22/based) - cryptography, 100 pts
+- [<b>San Diego CTF 2022</b>](./sdctf-22)
 	- [<b>Free Flag</b>](./sdctf-22/free-flag) - miscellaneous, 300 pts
 	- [<b>Internprise Encryption</b>](./sdctf-22/internprise-encryption) - revenge, 200 pts
 
