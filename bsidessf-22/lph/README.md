@@ -52,15 +52,15 @@ Looking at the spectrogram also made it a lot easier to determine the number of 
 CTF{<combo_in_uppercase>}
 ```
 
-Rather than a numeric combination, it looks like the combination will thus be an alphabetical one.
+Rather than a numeric combination, it looks like the combination will be an alphabetical one.
 
 ### [photos](./lph_extracacted/photos/)
 
-If you look through the [photos](./lph_extracted/photos/) directory, you’ll see that there’s only one image that doesn’t follow the naming pattern of the others, [m1573l.jpg](./lph_extracted/photos/m1573l.jpg).  This image is also the only one of a combination lock (all the others are padlocks with their keys).  and it’s also the only combo lock, so I assumed that was the one being used in the recording.
+If you look through the [photos](./lph_extracted/photos/) directory, you’ll see that there’s only one image that doesn’t follow the naming pattern of the others, [m1573l.jpg](./lph_extracted/photos/m1573l.jpg).  This image is also the only one of a combination lock (all the others are of padlocks).  From there I assumed that it was safe to say that the lock pictured in [m1573l.jpg](./lph_extracted/photos/m1573l.jpg) was the one being used in the recording.
 
 [m1573l.jpg](./lph_extracted/photos/m1573l.jpg):
 
-![](./lph_extracted/photos/m1573l.jpg)
+<img src="./lph_extracted/photos/m1573l.jpg" width="500"><br>
 
 One important thing to note about this lock is that although has letters instead of numbers on the dial,
 it does not include every letter in the alphabet.  Based on the image we are given, we can tell that it excludes `J`, `K`, `Q`, `V`, `X`, and  `Z`.  Part of the dial isn't visible in the image, so I double checked that these were the only excluded letters by looking up the model number based on the image's filename.

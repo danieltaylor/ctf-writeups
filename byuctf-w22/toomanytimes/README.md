@@ -56,7 +56,7 @@ The main difference between a one-time pad and a Vignère cipher is that a Vign�
 
 With this realization, I looked for automated tools for solving Vignère ciphers.  After trying a couple of different websites, I found one ([found here](https://www.guballa.de/vigenere-solver)) that yielded particularly promising results:
 
-![](./img/vignere_input.png =500x) ![](./img/vignere_output.png =500x)
+<img src="./img/vigenere_input.png" width="500"> <img src="./img/vigenere_output.png" width="500">
 
 As shown in the images above, setting the ciphertext to
 
@@ -84,7 +84,7 @@ Now that I've got a key to use as a starting point, I can make adjustments to th
 
 Initially, I changed individual letters in the key, approximating how much a letter needed to shift by in order to cause the correct change in the plaintext.  As I worked though, I realized that because of the way decryption works, the key and plaintext are swappable.  This meant I could instead put the desired plaintext into the key field, and the decryption process would then give me the key needed to create that plaintext.  This allowed me to decode the many-time pad much faster.  This can be seen below:
 
-![](./img/new_key.png =400x)
+<img src="./img/new_key.png" width="400">
 
 Notice that I changed the beginning of the plaintext from `BYUCTE` to `BYUCTF`.  Making that change caused the beginning of the key to change from `KMGFLE` to `KMGFLD`.
 
