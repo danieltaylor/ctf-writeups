@@ -6,7 +6,7 @@
 - [**BYUCTF 2022**](./byuctf-22/)
 	- [Banana Smoothie](./byuctf-22/banana-smoothie/) 🖋- forensics/steganography, 349 pts
 	- [Sticky Key](./byuctf-22/sticky-key/) 🖋- forensics/steganography, 304 pts
-	- [XQR](./xqr) 🖋- cryptography, 490 pts
+	- [XQR](./byuctf-22/xqr) 🖋- cryptography, 490 pts
 - [**BYU Winter 2022 End of Semester CTF**](./byuctf-w22/)
 	- [The Most Worthy Distinction of Pain](./byuctf-w22/themostworthydistinctionofpain/) - cryptography, 500 pts
 	- [Too Many Times](./byuctf-w22/toomanytimes/) 🩸- cryptography, 500 pts
