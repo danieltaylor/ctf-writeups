@@ -12,10 +12,9 @@
 [View on CTFtime](https://ctftime.org/event/1660)
 
 ## Writeups
-- [**\*Banana Smoothie**](./banana-smoothie) - forensics/steganography, 349 pts
-- [**\*Sticky Key**](./sticky-key) - forensics/steganography, 304 pts
-- [**The Most Worthy Distinction of Pain**](./themostworthydistinctionofpain) - cryptography, 465 pts
-- [**Too Many Times**](./toomanytimes) - cryptography, 498 pts
-- [**\*XQR**](./xqr) - cryptography, 490 pts
+- [**Banana Smoothie**](./banana-smoothie) 🖋- forensics/steganography, 349 pts
+- [**Sticky Key**](./sticky-key) 🖋- forensics/steganography, 304 pts
+- [**XQR**](./xqr) 🖋- cryptography, 490 pts
 
-\* Asterisks indicate challenges that I created.
+##### Key:
+- 🖋= challenge author; I created this challenge.
