@@ -1,6 +1,5 @@
 # Internprise Encryption
 
-###### Writeup by [danieltaylor](https://github.com/danieltaylor)
 
 ## Challenge
 

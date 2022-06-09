@@ -1,7 +1,5 @@
 # Too Many Times
 
-###### writeup by [danieltaylor](https://github.com/danieltaylor)
-
 
 ## Challenge
 

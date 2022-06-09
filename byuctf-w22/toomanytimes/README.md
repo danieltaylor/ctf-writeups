@@ -1,5 +1,6 @@
 # Too Many Times
 
+
 ## Challenge
 
 My enemy was sending secret messages to his allies with a supposedly "unbreakable" cipher, but I think he made a mistake.

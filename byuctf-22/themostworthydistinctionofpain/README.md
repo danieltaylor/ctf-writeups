@@ -1,7 +1,5 @@
 # The Most Worthy Distinction of Pain
 
-###### writeup by [danieltaylor](https://github.com/danieltaylor)
-
 
 ## Challenge
 

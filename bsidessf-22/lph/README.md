@@ -1,8 +1,5 @@
 # lph
 
-###### writeup by [danieltaylor](https://github.com/danieltaylor)
-
-
 ## Challenge
 
 Help, I'm locked out but I have a recording from the lph!

@@ -1,6 +1,5 @@
 # Free Flag
 
-###### Writeup by [danieltaylor](https://github.com/danieltaylor)
 
 ## Challenge
 

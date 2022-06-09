@@ -1,7 +1,5 @@
 # Based
 
-###### writeup by [danieltaylor](https://github.com/danieltaylor)
-
 
 ## Solution
 

@@ -1,6 +1,6 @@
 # Sticky Key
 
-###### challenge and writeup by [danieltaylor](https://github.com/danieltaylor)
+###### official writeup; challenge created by me
 
 
 ## Challenge

@@ -1,5 +1,6 @@
 # Stone Moon
 
+
 ## Challenge
 
 I came across this malicious code, but I'm not quite sure what language it's written in... can you help me?

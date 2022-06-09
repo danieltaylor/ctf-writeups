@@ -1,5 +1,6 @@
 # The Most Worthy Distinction of Pain
 
+
 ## Challenge
 
 We intercepted a code (`encrypted.txt`).
