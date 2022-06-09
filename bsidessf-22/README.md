@@ -5,4 +5,4 @@
 [View on CTFtime](https://ctftime.org/event/1666)
 
 ## Writeups
-- [**lph**](./bsidessf-22/lph/) - forensics, 986 pts
+- [**lph**](./lph/) - forensics, 986 pts
