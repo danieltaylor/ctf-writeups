@@ -54,7 +54,7 @@ CTF{<combo_in_uppercase>}
 
 Rather than a numeric combination, it looks like the combination will be an alphabetical one.
 
-### [photos](./lph_extracacted/photos/)
+### [photos](./lph_extracted/photos/)
 
 If you look through the [photos](./lph_extracted/photos/) directory, you’ll see that there’s only one image that doesn’t follow the naming pattern of the others, [m1573l.jpg](./lph_extracted/photos/m1573l.jpg).  This image is also the only one of a combination lock (all the others are of padlocks).  From there I assumed that it was safe to say that the lock pictured in [m1573l.jpg](./lph_extracted/photos/m1573l.jpg) was the one being used in the recording.
 
