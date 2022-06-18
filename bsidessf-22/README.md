@@ -5,4 +5,8 @@
 [View on CTFtime](https://ctftime.org/event/1666)
 
 ## Writeups
-- [**lph**](./lph/) - forensics, 986 pts
+- [**dual-type-multi-format**](./dual-type-multi-format/) 🩸- forensics, 856 pts
+- [**lph**](./lph/) 🩸- forensics, 986 pts
+
+##### Key:
+- 🩸= first blood; I was the first to solve this challenge.

@@ -2,6 +2,7 @@
 
 #### 2022
 - [**BSidesSF 2022 CTF**](./bsidessf-22/)
+	- [**dual-type-multi-format**](./bsidessf-22/dual-type-multi-format/) 🩸- forensics, 856 pts
 	- [lph](./bsidessf-22/lph/) 🩸- forensics, 986 pts
 - [**BYUCTF 2022**](./byuctf-22/)
 	- [Banana Smoothie](./byuctf-22/banana-smoothie/) 🖋- forensics/steganography, 349 pts
