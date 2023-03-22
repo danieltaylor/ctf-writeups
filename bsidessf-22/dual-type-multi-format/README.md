@@ -25,7 +25,7 @@ Another possibility I considered was if the tones somehow mapped to the 4x4 keyp
 
 I started digging deeper into the audio itself, and found that there were a few extra tones that hadn't been recognized by the decoder.  Running the audio through the tool again, I watched for tones that decode into anything, and mapped everything onto a screenshot of the audio's spectrogram in [Audacity](https://www.audacityteam.org):
 
-![](spectrogram1.png)
+![](./img/spectrogram1.png)
 
 So really the decoded sequence should be  `4354467_6469616_5#665#666#725#666_61677_`, with the blanks being the unknown values.
 
