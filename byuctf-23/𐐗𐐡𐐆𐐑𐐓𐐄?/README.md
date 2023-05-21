@@ -10,7 +10,7 @@ Flag format: `byuctf{WORD_OR_PHRASE}`
 
 The provided challenge file appears as follows:
 
-![](./chall.png)
+![](../𐐗𐐡𐐆𐐑𐐓𐐄%3F/chall.png)
 
 The first step in solving this challenge is to determine what alphabet is being used in the provided image. This can be done in one of two ways.  The easier way is to copy and paste the characters from the challenge title into a search engine.  You likely won't get any results searching for the whole title, but if you search for individual characters or add spaces to the title, you will discover that the characters come from the [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet).
 
@@ -33,7 +33,7 @@ The original characters are found below:
 𐐒𐐀 𐐎𐐌 𐐏𐐅 𐐝𐐀 𐐓𐐀 𐐇𐐙 𐐔𐐇𐐝𐐀𐐡𐐇𐐓 𐐣𐐀𐐤𐐞 𐐐𐐊𐐤𐐆 𐐒
 ```
 
-![](./img/translator.png)
+![](../𐐗𐐡𐐆𐐑𐐓𐐄%3F/img/translator.png)
 
 This might not make a lot of sense on the screen, but if you say it aloud, it becomes `B Y U C T F Deseret means honey bee`.
 
@@ -55,6 +55,6 @@ And they did also carry with them deseret, which, by interpretation, is a honey 
 
 The Book of Mormon was published in the Deseret Alphabet in 1869.  While I don't have a copy of my own, one can be found [on the Internet Archive](https://archive.org/embed/bookofmormdeseretalpha00).  The phrase from above, "deseret, which, by interpretation, is a honey bee," can be found (with some difficulty, as the verses aren't enumerated in early copies of the Book of Mormon as they are today) written as shown below:
 
-![](./img/ether2_3.png)
+![](../𐐗𐐡𐐆𐐑𐐓𐐄%3F/img/ether2_3.png)
 
 "Honey bee" is thus rendered as `𐐐𐐊𐐤𐐆 𐐒` in the challenge in order to stay true to the original text it was taken from.  (And to make the challenge just a little bit more difficult.)

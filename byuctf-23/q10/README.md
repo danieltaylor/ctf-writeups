@@ -22,11 +22,11 @@ The tiles on the rack don't seem to form a word by themselves, or at least not a
 
 You might be able to figure out the best word if you're a Scrabble master, but for the rest of us, we'll have to cheat.  There are a number of websites that allow you to enter the layout of a Scrabble board to see what the best moves are.  I'm sure there are more, but I found 4 different sites that claimed to be able to perform this task.  Two of them worked, as shown below.
 
-Scrabulizer (https://www.scrabulizer.com):
+Scrabulizer ([scrabulizer.com](https://www.scrabulizer.com)):
 
 ![](./img/scrabulizer.png)
 
-Scrabble Go Cheat (https://www.scrabblegocheat.com/board-editor):
+Scrabble Go Cheat ([scrabblegocheat.com/board-editor](https://www.scrabblegocheat.com/board-editor)):
 
 ![](./img/scrabblegocheat.png)
 
