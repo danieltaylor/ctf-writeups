@@ -10,7 +10,7 @@
 - [**Criterion**](./criterion/) 🖋 - OSINT, 496 pts (17 solves)
 - [**Hexadecalingo**](./hexadecalingo/) 🖋 - steganography, 428 pts (65 solves)
 - [**MI6configuration**](../byu-eos-ctf-w23/mi6configuration/)\* - pwn, 3 parts—418, 425, and 436 pts (69, 66, 61 solves, respectively)
-- [**Paleontology**](../byu-eos-ctf-w23/paleontology/)\*\* 🖋 - forensics/steganography, 500 pts (4 solves)
+- [**Paleontology**](../byu-eos-ctf-f22/paleontology/)\*\* 🖋 - forensics/steganography, 500 pts (4 solves)
 - [**Q10**](./q10/) 🖋 - forensics/steganography, 500 pts (5 solves)
 - [**𐐗𐐡𐐆𐐑𐐓𐐄?**](./𐐗𐐡𐐆𐐑𐐓𐐄%3F/) 🖋 - cryptography, 403 pts (75 solves)
 
