@@ -7,7 +7,7 @@
 	- [MI6configuration](./byu-eos-ctf-w23/mi6configuration/) - pwn, 3 parts—418, 425, and 436 pts (69, 66, 61 solves, respectively)
 	- [Paleontology](./byu-eos-ctf-f22/paleontology/) 🖋 - forensics/steganography, 500 pts (4 solves)
 	- [Q10](./byuctf-23/q10/) 🖋 - forensics/steganography, 500 pts (5 solves)
-	- [𐐗𐐡𐐆𐐑𐐓𐐄?](./byuctf-23/𐐗𐐡𐐆𐐑𐐓𐐄?/) 🖋 - cryptography, 403 pts (75 solves)
+	- [𐐗𐐡𐐆𐐑𐐓𐐄?](./byuctf-23/𐐗𐐡𐐆𐐑𐐓𐐄%3F/) 🖋 - cryptography, 403 pts (75 solves)
 - [**BYU Winter 2023 End-of-Semester CTF**](./byu-eos-ctf-w23/) 🥇
 	- [MI6configuration](./byu-eos-ctf-w23/mi6configuration/) - pwn, 4 parts—484 pts each
 
